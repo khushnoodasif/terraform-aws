@@ -1,4 +1,5 @@
 terraform-key.pem
+.terraform.lock.hcl
 #.gitignore
 
 # macOS Files
